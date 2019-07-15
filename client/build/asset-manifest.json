@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/react-router-streams-practice/static/js/main.cf76f389.chunk.js",
+    "main.js.map": "/react-router-streams-practice/static/js/main.cf76f389.chunk.js.map",
+    "runtime~main.js": "/react-router-streams-practice/static/js/runtime~main.7b79afaf.js",
+    "runtime~main.js.map": "/react-router-streams-practice/static/js/runtime~main.7b79afaf.js.map",
+    "static/js/2.14bba5c3.chunk.js": "/react-router-streams-practice/static/js/2.14bba5c3.chunk.js",
+    "static/js/2.14bba5c3.chunk.js.map": "/react-router-streams-practice/static/js/2.14bba5c3.chunk.js.map",
+    "index.html": "/react-router-streams-practice/index.html",
+    "precache-manifest.7244105e798acc5715ca68f0352d657f.js": "/react-router-streams-practice/precache-manifest.7244105e798acc5715ca68f0352d657f.js",
+    "service-worker.js": "/react-router-streams-practice/service-worker.js"
+  }
+}

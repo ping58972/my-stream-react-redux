@@ -1,0 +1,63 @@
+{
+  "streams": [
+    {
+      "title": "Ping created this stream",
+      "description": "This was mad by Ping",
+      "userId": null,
+      "id": 1
+    },
+    {
+      "title": "I do again ",
+      "description": "this is again!",
+      "userId": null,
+      "id": 2
+    },
+    {
+      "title": "I did it again?",
+      "description": "it is again?",
+      "userId": null,
+      "id": 3
+    },
+    {
+      "title": "I did it?",
+      "description": "was it  again?",
+      "userId": "110272682782174567593",
+      "id": 4
+    },
+    {
+      "title": "Unexpected Behavior",
+      "description": "Did not expect that!",
+      "userId": "110272682782174567593",
+      "id": 5
+    },
+    {
+      "title": "Programmatic Navigation...",
+      "description": "You should not see the form page!! hahah",
+      "userId": "110272682782174567593",
+      "id": 6
+    },
+    {
+      "title": "Me Streaming Component Reuse",
+      "description": "this Stream is about refactoring!",
+      "id": 7
+    },
+    {
+      "title": "Ping stream",
+      "description": "just for practice!",
+      "userId": "110272682782174567593",
+      "id": 8
+    },
+    {
+      "title": "Try again",
+      "description": "make it great again.",
+      "userId": "110272682782174567593",
+      "id": 9
+    },
+    {
+      "title": "Love is sad and happy",
+      "description": "is it true?",
+      "userId": "110272682782174567593",
+      "id": 10
+    }
+  ]
+}
